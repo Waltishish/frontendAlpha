@@ -1,3 +1,5 @@
+/* Genererad med chatgpt */
+
 import React, { useState, useEffect } from "react";
 
 const EditProjectModal = ({ project, onClose, onProjectUpdated }) => {
