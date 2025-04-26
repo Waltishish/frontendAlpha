@@ -1,3 +1,5 @@
+/* Genererad med chatgpt */
+
 import React, { useEffect, useState } from "react";
 import AddProjectModal from "../partials/components/AddProjectModal";
 import EditProjectModal from "../partials/components/EditProjectModal";
