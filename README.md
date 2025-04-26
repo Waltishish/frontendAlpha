@@ -1,3 +1,11 @@
+Mesta dels av koden är genererad med hjälp av chatgpt då React var ett litet krav i frontend för VG som jag inte gick för.
+
+Dessa filer är genererade med chatgpt
+/partials/compoent/AddProjectModal.jsx
+/partials/compoent/EditProjectModal.jsx
+/pages/layout/Projects.jsx
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
